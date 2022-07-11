@@ -27,5 +27,4 @@ h3 {
 
 .footer{
  text-align:center;
-  align-text:baseline;
-}
+  justify-content:bottom;
