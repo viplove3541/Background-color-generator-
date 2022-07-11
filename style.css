@@ -24,3 +24,8 @@ h3 {
   text-transform: none;
   letter-spacing: 0.01em;
 }
+
+.footer{
+ text-align:center;
+  align-text:baseline;
+}
